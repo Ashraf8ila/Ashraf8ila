@@ -12,18 +12,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Ashraf Ali's Portfolio
+## 👋 Hi
 
-👋 Hi, I’m @ashraf8ila  
-👀 I’m interested in Fullstack, Machine Learning, Data Analysis, and DevOps.  
-🌱 I’m currently pursuing a Master of Science in Computer Science and Engineering at The State University of New York at Buffalo.  
-💞️ I’m looking to collaborate on projects related to AI, ML, and fullstack.  
-📫 How to reach me: ashrafal@buffalo.edu
+🥂 I’m ashraf 🌚   
+👀 I’ve experience in Fullstack, Machine Learning, Heterogeneous programming, DevOps, and Data Analysis.  
+🌱 I’ve a Master of Science in Computer Science and Engineering (Specializing AI) at The State University of New York at Buffalo.  
+💞️ I’m looking to collaborate on projects related to AI, ML, PC and FS.  
+🤯 I'm also interested in Blender, three.js, Unreal Engine, and Game development.  
+🤔 I’m looking for help building chat Agents.  
+📫 How to reach me: ashrafal@buffalo.edu   
+📄 Here's my [Portfolio](https://ashraf8ila.github.io/react-portfolio/). [Open to feedback]
 
 ## 💻 Skills
 
 ### Technical Skills
-- **Languages:** C/C++, C#, Python, Java, MATLAB
+- **Languages:** C/C++, C#, Python, Java, MATLAB, OpenCL
 - **Frameworks & Libraries:** Xamarin, XAML, NumPy, Pandas, Matplotlib, Scikit-learn, PyTorch, Jupyter, Robot Framework, Appium
 - **Tools & Platforms:** Git, Azure DevOps, Jenkins, Docker, MQTT, Android Studio, Maven
 - **Web Technologies:** HTML, CSS, JavaScript, PHP, REST API, React
